@@ -1,0 +1,14 @@
+SDL01A_HtseqCounts.txt
+SDL02A_HtseqCounts.txt
+SDL03B_HtseqCounts.txt
+SDL04A_HtseqCounts.txt
+SDL05A_HtseqCounts.txt
+SDL06B_HtseqCounts.txt
+SDL07A_HtseqCounts.txt
+SDL08A_HtseqCounts.txt
+SDL09A_HtseqCounts.txt
+SDL10B_HtseqCounts.txt
+SDL11A_HtseqCounts.txt
+SDL12A_HtseqCounts.txt
+SDL13A_HtseqCounts.txt
+SDL14B_HtseqCounts.txt
